@@ -1,6 +1,6 @@
 # Monniverse
 
-![Monniverse Project](public/characters/images/Monniverse_1.svg)
+![Monniverse Project](/Monniverse_1.svg)
 
 Welcome to the Monniverse project! This Next.js web application leverages the Lens Protocol SDK and wagmi for seamless blockchain interactions.
 
