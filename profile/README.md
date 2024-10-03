@@ -39,7 +39,7 @@ Join us in revolutionizing content creation with blockchain technology and take 
 
 ---
 
-## 🌟 **Join the Monniverse**
+## 🌟 **Join Monniverse**
 
 Become part of an ever-growing community and stay updated with the latest news and developments:
 
