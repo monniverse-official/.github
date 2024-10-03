@@ -1,7 +1,7 @@
 # Monniverse
 
 <div align="center">
-  <img src="./Monniverse.svg" alt="Monniverse" width="200">
+  <img src="./Monniverse.svg" alt="Monniverse" width="500">
 </div>
 
 ---
